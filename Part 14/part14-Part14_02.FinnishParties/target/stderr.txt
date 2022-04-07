@@ -1,0 +1,2 @@
+Apr 03, 2022 4:14:10 PM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @6c38726a'
