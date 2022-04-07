@@ -1,0 +1,3 @@
+This mooc was a lot of fun. It is the first mooc I've finished. It is my starting point in programming. I also learned how git and github works. After several hours of trying to upload the project in the github site, I found an easier and more efficient way which is to just use git, vscode, and the github extension.
+
+I hope to one day look back at how it all began and realize how far my journey has been. I know that there will be several challenges and struggles in the future. But I will do my best to conquer all of them. Thank you for reading and good luck to your journey as well!
